@@ -1,6 +1,6 @@
 <template>
   <div class="footer">
-    <div style="height: 50px; margin-top: 30px; margin-right: 20px;">
+    <div style="height: 50px; margin-top: 40px; margin-right: 20px;">
       Made with
       <font-awesome-icon icon="heart" style="color: red;" /> by R^2
     </div>
